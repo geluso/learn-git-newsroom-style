@@ -1,21 +1,20 @@
 June 27, 2016
 25 cents
 
-# The Seattle Times
+# Sunny day in Seattle
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* Cat Stuck in Tree
+* headline
+* headline
 
 ## Sports
-* Highschool Basketball
-* Ping Pong Championship
-* Upcoming Track Meet
+* headline
+* headline
 
 ## Culture
-* Battle of the Bands
-* Open Greenhouse Gardening
-* Board Game Tournament
+* headline
+* headline
 
 ## Weekly Weather
 Sunday:    Sunny
