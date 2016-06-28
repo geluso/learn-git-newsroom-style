@@ -5,16 +5,17 @@ June 27, 2016
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+* Cat Stuck in Tree
 
 ## Sports
-* headline
-* headline
+* Highschool Basketball
+* Ping Pong Championship
+* Upcoming Track Meet
 
 ## Culture
-* headline
-* headline
+* Battle of the Bands
+* Open Greenhouse Gardening
+* Board Game Tournament
 
 ## Weekly Weather
 Sunday:    REPLACE
